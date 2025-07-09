@@ -36,11 +36,28 @@ This repo tracks research, development work, and progress through weekly milesto
 
 ## 🧠 Active Portfolio Work
 
-I’m currently working on:
+I'm currently working on:
 - [`241RunnersAwareness.org`](https://github.com/DekuWorks/241RunnersAwareness.org) – A web platform for public safety alerts
+- [`ShipItApp`](https://github.com/DekuWorks/ShipItApp.git) – A voice & video shoutouts platform built with ASP.NET Core
 - [`PickyEaterApp`](https://github.com/DekuWorks/PickyEaterApp) – A nutrition-focused recipe planner (coming soon)
 
-Both projects align with my degree path and expand my frontend/backend development experience.
+All projects align with my degree path and expand my frontend/backend development experience.
+
+---
+
+## 🚢 Featured Projects
+
+### ShipItApp - Voice & Video Shoutouts Platform
+**Tech Stack:** ASP.NET Core, JavaScript, HTML5, CSS3  
+**Features:**
+- Voice and video file uploads with drag & drop
+- Real-time voting system
+- Tag-based content organization
+- Responsive dark theme UI
+- RESTful API with comprehensive validation
+
+**Repository:** [`dev/ShipItApp/`](dev/ShipItApp/)  
+**Live Demo:** [ShipItApp GitHub](https://github.com/DekuWorks/ShipItApp.git)
 
 ---
 
