@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShipItApp - Voice & Video Shoutouts</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2 class="logo">🚢 ShipItApp</h2>
+            </div>
+            <nav class="sidebar-nav">
+                <ul>
+                    <li><a href="#" class="nav-item active"><i class="fas fa-home"></i> Home</a></li>
+                    <li><a href="#" class="nav-item"><i class="fas fa-tags"></i> Tags</a></li>
+                    <li><a href="#" class="nav-item"><i class="fas fa-users"></i> Users</a></li>
+                    <li><a href="#" class="nav-item"><i class="fas fa-user"></i> Profile</a></li>
+                    <li><a href="#" class="nav-item"><i class="fas fa-file-alt"></i> Your Posts</a></li>
+                    <li><a href="#" class="nav-item"><i class="fas fa-cog"></i> Settings</a></li>
+                </ul>
+            </nav>
+            
+            <div class="watched-tags">
+                <h3>Watched Tags</h3>
+                <div class="tag-list">
+                    <span class="tag">#React</span>
+                    <span class="tag">#Redux</span>
+                    <span class="tag">#TypeScript</span>
+                    <span class="tag">#ASP.NET</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Top Navigation Bar -->
+            <header class="top-bar">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" placeholder="Search posts, tags, users..." class="search-input">
+                </div>
+                <button class="new-post-btn">
+                    <i class="fas fa-plus"></i> New Post
+                </button>
+            </header>
+
+            <!-- Main Content Area -->
+            <div class="content-area">
+                <section class="posts-section">
+                    <h1>Top Posts</h1>
+                    
+                    <!-- Tab Navigation -->
+                    <div class="tab-container">
+                        <button class="tab-btn active">Watching</button>
+                        <button class="tab-btn">Popular</button>
+                        <button class="tab-btn">New</button>
+                        <button class="tab-btn">Top</button>
+                    </div>
+
+                    <!-- Posts Container -->
+                    <div class="posts-container">
+                        <!-- Sample Post 1 -->
+                        <article class="post-card">
+                            <div class="post-header">
+                                <h3 class="post-title">How I built a real-time chat app with SignalR</h3>
+                                <div class="post-tags">
+                                    <span class="tag">#SignalR</span>
+                                    <span class="tag">#ASP.NET</span>
+                                    <span class="tag">#RealTime</span>
+                                </div>
+                            </div>
+                            <div class="post-meta">
+                                <span class="username">@devmaster</span>
+                                <span class="timestamp">2 hours ago</span>
+                            </div>
+                            <div class="post-actions">
+                                <div class="vote-container">
+                                    <button class="vote-btn upvote">
+                                        <i class="fas fa-arrow-up"></i>
+                                        <span class="vote-count">42</span>
+                                    </button>
+                                    <button class="vote-btn downvote">
+                                        <i class="fas fa-arrow-down"></i>
+                                    </button>
+                                </div>
+                                <div class="comment-count">
+                                    <i class="fas fa-comment"></i>
+                                    <span>12 comments</span>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Sample Post 2 -->
+                        <article class="post-card">
+                            <div class="post-header">
+                                <h3 class="post-title">Voice shoutout: React hooks best practices</h3>
+                                <div class="post-tags">
+                                    <span class="tag">#React</span>
+                                    <span class="tag">#Hooks</span>
+                                    <span class="tag">#JavaScript</span>
+                                </div>
+                            </div>
+                            <div class="post-meta">
+                                <span class="username">@reactdev</span>
+                                <span class="timestamp">5 hours ago</span>
+                            </div>
+                            <div class="post-actions">
+                                <div class="vote-container">
+                                    <button class="vote-btn upvote">
+                                        <i class="fas fa-arrow-up"></i>
+                                        <span class="vote-count">28</span>
+                                    </button>
+                                    <button class="vote-btn downvote">
+                                        <i class="fas fa-arrow-down"></i>
+                                    </button>
+                                </div>
+                                <div class="comment-count">
+                                    <i class="fas fa-comment"></i>
+                                    <span>8 comments</span>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Sample Post 3 -->
+                        <article class="post-card">
+                            <div class="post-header">
+                                <h3 class="post-title">Video tutorial: Building REST APIs with .NET 8</h3>
+                                <div class="post-tags">
+                                    <span class="tag">#.NET8</span>
+                                    <span class="tag">#REST</span>
+                                    <span class="tag">#API</span>
+                                </div>
+                            </div>
+                            <div class="post-meta">
+                                <span class="username">@dotnetguru</span>
+                                <span class="timestamp">1 day ago</span>
+                            </div>
+                            <div class="post-actions">
+                                <div class="vote-container">
+                                    <button class="vote-btn upvote">
+                                        <i class="fas fa-arrow-up"></i>
+                                        <span class="vote-count">67</span>
+                                    </button>
+                                    <button class="vote-btn downvote">
+                                        <i class="fas fa-arrow-down"></i>
+                                    </button>
+                                </div>
+                                <div class="comment-count">
+                                    <i class="fas fa-comment"></i>
+                                    <span>23 comments</span>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+
+                <!-- Upload Shoutout Section -->
+                <section class="upload-section">
+                    <h2>Share Your Voice/Video Shoutout</h2>
+                    <div class="upload-container">
+                        <div class="upload-area" id="uploadArea">
+                            <i class="fas fa-microphone upload-icon"></i>
+                            <p>Click to record or drag & drop audio/video files</p>
+                            <input type="file" id="fileInput" accept="audio/*,video/*" style="display: none;">
+                        </div>
+                        <button class="upload-btn" id="uploadBtn">
+                            <i class="fas fa-upload"></i> Upload Shoutout
+                        </button>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <script src="App.js"></script>
+</body>
+</html> 
