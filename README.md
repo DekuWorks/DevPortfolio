@@ -61,6 +61,27 @@ All projects align with my degree path and expand my frontend/backend developmen
 
 ---
 
+### 241Runners
+A web platform for public safety alerts and runner awareness.
+
+**Repository:** [`dev/241Runners/`](dev/241Runners/)
+
+---
+
+### RexusOpsEMS
+An emergency management system for incident tracking and responder coordination.
+
+**Repository:** [`dev/RexusOpsEMS/`](dev/RexusOpsEMS/)
+
+---
+
+### ADF_2506_BrownMarcus
+Coursework and sample applications for the ADF_2506 class.
+
+**Repository:** [`dev/ADF_2506_BrownMarcus/`](dev/ADF_2506_BrownMarcus/)
+
+---
+
 ## 🔗 Contact
 
 **Marcus Brown**  
