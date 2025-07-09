@@ -60,12 +60,26 @@ All projects align with my degree path and expand my frontend/backend developmen
 **Repository:** [`dev/ShipItApp/`](dev/ShipItApp/)  
 **Live Demo:** [ShipItApp GitHub](https://github.com/DekuWorks/ShipItApp.git)
 
+**🚀 Next Features:**
+- User authentication and profiles
+- Comment system with threading
+- Advanced search with filters
+- Mobile app development
+- Real-time notifications
+
 ---
 
 ### 241Runners
 A web platform for public safety alerts and runner awareness.
 
 **Repository:** [`dev/241Runners/`](dev/241Runners/)
+
+**🚀 Next Features:**
+- Real-time GPS tracking
+- Emergency contact integration
+- Weather alerts and notifications
+- Community safety reports
+- Mobile app with offline support
 
 ---
 
@@ -74,12 +88,26 @@ An emergency management system for incident tracking and responder coordination.
 
 **Repository:** [`dev/RexusOpsEMS/`](dev/RexusOpsEMS/)
 
+**🚀 Next Features:**
+- Real-time incident mapping
+- Automated dispatch system
+- Equipment tracking and maintenance
+- Performance analytics dashboard
+- Mobile responder app
+
 ---
 
 ### ADF_2506_BrownMarcus
 Coursework and sample applications for the ADF_2506 class.
 
 **Repository:** [`dev/ADF_2506_BrownMarcus/`](dev/ADF_2506_BrownMarcus/)
+
+**🚀 Next Features:**
+- Advanced authentication systems
+- Database optimization
+- API documentation improvements
+- Unit testing coverage
+- Deployment automation
 
 ---
 
