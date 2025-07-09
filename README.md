@@ -39,6 +39,7 @@ This repo tracks research, development work, and progress through weekly milesto
 I'm currently working on:
 - [`241RunnersAwareness.org`](https://github.com/DekuWorks/241RunnersAwareness.org) – A web platform for public safety alerts
 - [`ShipItApp`](https://github.com/DekuWorks/ShipItApp.git) – A voice & video shoutouts platform built with ASP.NET Core
+- [`RexusOpsEMS`](https://github.com/DekuWorks/RexusOpsEMS.git) – An emergency management system for incident tracking and responder coordination
 - [`PickyEaterApp`](https://github.com/DekuWorks/PickyEaterApp) – A nutrition-focused recipe planner (coming soon)
 
 All projects align with my degree path and expand my frontend/backend development experience.
