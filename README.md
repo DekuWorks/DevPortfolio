@@ -1,5 +1,7 @@
 # 📁 Project & Portfolio – Application Development Fundamentals
 
+> **Last updated:** July 12, 2025
+
 Welcome to my official Portfolio 1 repository for **Application Development Fundamentals (ADF 156)** – my 7th course at Full Sail University.
 
 This repo tracks research, development work, and progress through weekly milestones. It demonstrates my understanding of:
