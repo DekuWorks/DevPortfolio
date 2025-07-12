@@ -42,8 +42,6 @@ I'm currently working on:
 - [`241RunnersAwareness.org`](https://github.com/DekuWorks/241RunnersAwareness.org) – A web platform for public safety alerts
 - [`RexusOpsEMS`](https://github.com/DekuWorks/RexusOpsEMS.git) – An emergency management system for incident tracking and responder coordination
 - [`PickyEaterApp`](https://github.com/DekuWorks/PickyEaterApp) – A nutrition-focused recipe planner (coming soon)
-- [`ShipItApp`](https://github.com/DekuWorks/BrownMarcus_ADF/tree/main/ShipItApp) – Now part of the BrownMarcus_ADF class-assigned repository
-
 All projects align with my degree path and expand my frontend/backend development experience.
 
 ---
@@ -78,19 +76,7 @@ An emergency management system for incident tracking and responder coordination.
 
 ---
 
-### ADF_2506_BrownMarcus
-Coursework and sample applications for the ADF_2506 class.
 
-**Repository:** [`dev/ADF_2506_BrownMarcus/`](dev/ADF_2506_BrownMarcus/)
-
-**🚀 Next Features:**
-- Advanced authentication systems
-- Database optimization
-- API documentation improvements
-- Unit testing coverage
-- Deployment automation
-
----
 
 ## 🔗 Contact
 
