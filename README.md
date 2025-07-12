@@ -61,11 +61,6 @@ This repo tracks research, development work, and progress through weekly milesto
 - Add basic meal planner UI
 - Research nutrition API integration
 
-**ADF_2506_BrownMarcus**
-- Organize coursework files and document structure
-- Draft API documentation improvements
-- Plan for unit testing coverage
-
 ---
 
 ## 🧠 Active Portfolio Work
