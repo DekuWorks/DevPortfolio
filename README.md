@@ -44,6 +44,28 @@ This repo tracks research, development work, and progress through weekly milesto
 - Create and describe Milestone 6, assign issues to it
 - Complete feature branch work, create a pull request, and merge to stage
 
+### Week 2: Next Plans
+
+**241Runners**
+- Implement initial GPS tracking logic
+- Set up emergency contact form and backend endpoint
+- Begin weather alert integration research
+
+**RexusOpsEMS**
+- Design incident mapping UI prototype
+- Start automated dispatch system planning
+- Add equipment tracking data model
+
+**PickyEaterApp**
+- Build recipe input form
+- Add basic meal planner UI
+- Research nutrition API integration
+
+**ADF_2506_BrownMarcus**
+- Organize coursework files and document structure
+- Draft API documentation improvements
+- Plan for unit testing coverage
+
 ---
 
 ## 🧠 Active Portfolio Work
