@@ -120,3 +120,11 @@ GitHub: [@DekuWorks](https://github.com/DekuWorks)
 ---
 
 > This portfolio will be continuously updated throughout ADF 156. Check the `/docs` folder and Project Board for progress.
+
+---
+
+## 📝 Instructor Feedback
+
+Below is feedback received from my instructor on July 10, 2024:
+
+![Instructor Feedback](img/feedback_july10.png)
