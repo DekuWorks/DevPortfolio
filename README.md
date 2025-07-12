@@ -34,6 +34,16 @@ This repo tracks research, development work, and progress through weekly milesto
 - GitHub Issues Created & Linked to Milestone 5
 - Project Board Organised (To Do / In Progress / Done)
 
+### ✅ Week 2: Milestone 2
+- Capture and implement requirements from the live session as GitHub Issues
+- Assign issues to the current Sprint and project board
+- Update documentation in the docs folder as instructed
+- Highlight a key concept in the portfolio (e.g., .gitignore cleanup, project organization)
+- Address all feedback and open issues from previous weeks
+- Update project & portfolio boards: move issues to correct columns
+- Create and describe Milestone 6, assign issues to it
+- Complete feature branch work, create a pull request, and merge to stage
+
 ---
 
 ## 🧠 Active Portfolio Work
