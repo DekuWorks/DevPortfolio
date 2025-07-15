@@ -1,0 +1,32 @@
+name: Project Board Automation
+
+on:
+  issues:
+    types: [opened, closed, reopened, labeled, unlabeled]
+  pull_request:
+    types: [opened, closed, reopened, synchronize]
+
+jobs:
+  project-automation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add to Project Board
+        uses: actions/add-to-project@v0.5.1
+        if: github.event_name == 'issues' && github.event.action == 'opened'
+        with:
+          project-url: ${{ secrets.PROJECT_URL }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move to In Progress
+        uses: actions/add-to-project@v0.5.1
+        if: github.event_name == 'pull_request' && github.event.action == 'opened'
+        with:
+          project-url: ${{ secrets.PROJECT_URL }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move to Completed
+        uses: actions/add-to-project@v0.5.1
+        if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
+        with:
+          project-url: ${{ secrets.PROJECT_URL }}
+          github-token: ${{ secrets.GITHUB_TOKEN }} 
