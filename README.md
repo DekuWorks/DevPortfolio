@@ -1,12 +1,11 @@
 # 🚀 Marcus Brown - Developer Portfolio
 
-> **Last updated:** January 2025
+> **Last updated:** July 2025
 > **Note:** This repository showcases my original development projects and portfolio work.
 
 Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
 
 ![Portfolio Banner](tmp_241/lisa_thomas_241.jpg)
-
 ## 🎯 About This Portfolio
 This portfolio showcases my personal projects built with ASP.NET Core, React, and modern web technologies. Each project demonstrates different aspects of software development including authentication, API design, database management, and user interface development.
 
