@@ -1,6 +1,6 @@
 # 🚀 Marcus Brown - Developer Portfolio
 
-> **Last updated:** January 2025
+> **Last updated:** July 2025
 > **Note:** This repository showcases my original development projects and portfolio work.
 
 Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
