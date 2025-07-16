@@ -5,8 +5,6 @@
 
 Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
 
-![Portfolio Banner](https://via.placeholder.com/800x200/2563eb/ffffff?text=Marcus+Brown+-+Developer+Portfolio)
-
 ## 🎯 About This Portfolio
 This portfolio showcases my personal projects built with ASP.NET Core, React, and modern web technologies. Each project demonstrates different aspects of software development including authentication, API design, database management, and user interface development.
 
