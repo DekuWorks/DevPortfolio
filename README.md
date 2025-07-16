@@ -5,7 +5,7 @@
 
 Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
 
-![Portfolio Screenshot](https://user-images.githubusercontent.com/your-upload-id/filename.png)
+![Portfolio Banner](https://via.placeholder.com/800x200/2563eb/ffffff?text=Marcus+Brown+-+Developer+Portfolio)
 
 ## 🎯 About This Portfolio
 This portfolio showcases my personal projects built with ASP.NET Core, React, and modern web technologies. Each project demonstrates different aspects of software development including authentication, API design, database management, and user interface development.
@@ -15,7 +15,7 @@ This portfolio showcases my personal projects built with ASP.NET Core, React, an
 ### 🍽️ PickyEaterApp - Healthy Eating for Picky Eaters
 A comprehensive web application designed to help picky eaters and people with medical conditions maintain healthy eating habits through personalized meal planning.
 
-![PickyEaterApp Screenshot](tmp_241/1aBHYAzY.jpeg)
+![PickyEaterApp](https://via.placeholder.com/600x300/10b981/ffffff?text=PickyEaterApp+-+Healthy+Eating+Platform)
 
 **Key Features:**
 - Healthy meal planning based on dietary preferences and medical conditions
@@ -32,7 +32,7 @@ A comprehensive web application designed to help picky eaters and people with me
 ### 🏃‍♂️ 241Runners - Runner Awareness Platform
 A comprehensive web application for managing runner safety and awareness with emergency contact management.
 
-![241Runners Screenshot](tmp_241/241tent.jpeg)
+![241Runners](https://via.placeholder.com/600x300/3b82f6/ffffff?text=241Runners+-+Runner+Awareness+Platform)
 
 **Key Features:**
 - User registration with email and phone verification
@@ -47,7 +47,7 @@ A comprehensive web application for managing runner safety and awareness with em
 ### 🚨 RexusOpsEMS - Emergency Management System
 A comprehensive emergency management system for coordinating incidents, responders, and equipment.
 
-![RexusOpsEMS Screenshot](tmp_241/DSC03750.jpg)
+![RexusOpsEMS](https://via.placeholder.com/600x300/ef4444/ffffff?text=RexusOpsEMS+-+Emergency+Management+System)
 
 **Key Features:**
 - Incident management and tracking
@@ -87,7 +87,7 @@ All projects follow security best practices:
 
 ## 📸 Project Screenshots & Feedback
 
-![Project Feedback](img/feedback_july10.png)
+![Project Feedback](https://via.placeholder.com/800x200/8b5cf6/ffffff?text=Project+Feedback+%26+Reviews)
 
 ## 📄 License
 This portfolio is licensed under the MIT License - see individual project LICENSE files for details.
