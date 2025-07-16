@@ -31,7 +31,9 @@ A comprehensive web application designed to help picky eaters and people with me
 ### 🏃‍♂️ 241Runners - Runner Awareness Platform
 A comprehensive web application for managing runner safety and awareness with emergency contact management.
 
-![241Runners](tmp_241/241tent.jpeg)
+![241Runners Website](https://user-images.githubusercontent.com/your-upload-id/241runners-screenshot.png)
+
+*Screenshot shows the 241 Runners Awareness website with black header, red main content area, and white content box featuring the mission statement.*
 
 **Key Features:**
 - User registration with email and phone verification
