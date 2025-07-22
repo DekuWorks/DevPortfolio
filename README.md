@@ -90,8 +90,6 @@ All projects follow security best practices:
 
 ![Project Feedback](img/feedback_july10.png)
 
-## 📄 License
-This portfolio is licensed under the MIT License - see individual project LICENSE files for details.
 
 ---
 
