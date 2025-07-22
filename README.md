@@ -1,6 +1,6 @@
 # 🚀 Marcus Brown - Developer Portfolio
 
-> **Last updated:** July 2025
+> **Last updated:** July 2025 (Week 3 Updates)
 > **Note:** This repository showcases my original development projects and portfolio work.
 
 Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
@@ -115,7 +115,17 @@ This portfolio is licensed under the MIT License - see individual project LICENS
 - Create and describe Milestone 6, assign issues to it
 - Complete feature branch work, create a pull request, and merge to stage
 
-### Week 2: Next Plans
+### ✅ Week 3: Milestone 3
+- Enhanced portfolio documentation and project organization
+- Updated 241Runners section with live website integration
+- Implemented comprehensive GitHub project board setup
+- Created detailed issue templates and milestone tracking
+- Improved project structure and documentation standards
+- Added visual elements and screenshots to enhance portfolio presentation
+- Established feature branch workflow for ongoing development
+- Completed project board organization with proper column structure
+
+### Week 3: Next Plans
 
 **241Runners**
 - Implement initial GPS tracking logic
