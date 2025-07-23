@@ -1,26 +1,95 @@
-# 📁 Project & Portfolio – Application Development Fundamentals
+# 🚀 Marcus Brown - Developer Portfolio
 
-> **Last updated:** July 12, 2025
+> **Last updated:** July 2025
+> **Note:** This repository showcases my original development projects and portfolio work.
 
-Welcome to my official Portfolio 1 repository for **Application Development Fundamentals (ADF 156)** – my 7th course at Full Sail University.
+Welcome to my developer portfolio! This repository contains my original projects demonstrating full-stack development skills with modern technologies.
 
-This repo tracks research, development work, and progress through weekly milestones. It demonstrates my understanding of:
-
-- 🔁 Git version control (Feature Branch Workflow)
-- 📝 Markdown documentation
-- 📂 Code organisation
-- ✅ GitHub Issues, Project Boards & Milestones
+![Portfolio Banner](tmp_241/lisa_thomas_241.jpg)
+## 🎯 About This Portfolio
+This portfolio showcases my personal projects built with ASP.NET Core, React, and modern web technologies. Each project demonstrates different aspects of software development including authentication, API design, database management, and user interface development.
 
 ---
 
-## 📚 Repository Structure
+### 🍽️ PickyEaterApp - Healthy Eating for Picky Eaters
+A comprehensive web application designed to help picky eaters and people with medical conditions maintain healthy eating habits through personalized meal planning.
 
-| Folder/File | Description |
-|-------------|-------------|
-| `/dev`      | Code updates and files related to feature and milestone tasks |
-| `/docs`     | Markdown documentation for research and milestone reporting |
-| `/img`      | Screenshots or images used in research or presentations |
-| `README.md` | This file – project overview and weekly milestone summaries |
+![PickyEaterApp](tmp_241/1aBHYAzY.jpeg)
+
+**Key Features:**
+- Healthy meal planning based on dietary preferences and medical conditions
+- Medical condition support (diabetes, heart disease, IBS, celiac disease, hypertension)
+- Allergy and intolerance management with comprehensive filtering
+- Nutrition-focused recipes with detailed health information
+- Shopping list generation based on meal plans
+- Recipe ratings and community feedback system
+
+**Technologies:** ASP.NET Core, Entity Framework Core, JWT Authentication, React
+
+[View Project](dev/PickyEaterApp/) | [API Docs](dev/PickyEaterApp/docs/api.md)
+
+### 🏃‍♂️ 241Runners - Runner Awareness Platform
+A comprehensive web application for managing runner safety and awareness with emergency contact management.
+
+![241Runners Website](https://user-images.githubusercontent.com/your-upload-id/241runners-screenshot.png)
+
+*Screenshot shows the 241 Runners Awareness website with black header, red main content area, and white content box featuring the mission statement.*
+
+**Key Features:**
+- User registration with email and phone verification
+- Individual management and emergency contact system
+- Role-based access (parents, coaches, medical professionals)
+- Google OAuth integration
+
+**Technologies:** ASP.NET Core, Entity Framework Core, SendGrid, Twilio, React
+
+[View Project](dev/241Runners/) | [API Docs](dev/241Runners/docs/api.md)
+
+### 🚨 RexusOpsEMS - Emergency Management System
+A comprehensive emergency management system for coordinating incidents, responders, and equipment.
+
+![RexusOpsEMS](tmp_241/DSC03750.jpg)
+
+**Key Features:**
+- Incident management and tracking
+- Responder coordination and equipment tracking
+- Dashboard analytics with real-time updates
+- Role-based access control (Admin, Dispatcher, Responder)
+
+**Technologies:** ASP.NET Core, JWT Authentication, Role-based Authorization
+
+[View Project](dev/RexusOpsEMS/) | [API Docs](dev/RexusOpsEMS/docs/api.md)
+
+## 🚀 Getting Started
+
+Each project has its own setup instructions. Navigate to the project directory and follow the README for specific setup steps.
+
+```bash
+# Example for ShipItApp
+cd dev/ShipItApp
+# Follow setup instructions in README.md
+```
+
+## 📚 Documentation
+
+Each project includes comprehensive documentation:
+- **API Documentation**: Detailed endpoint documentation in `docs/api.md`
+- **Security & Compliance**: Information about data handling and third-party services
+- **Setup Instructions**: Step-by-step installation and configuration guides
+
+## 🔒 Security & Compliance
+
+All projects follow security best practices:
+- Environment variables for sensitive configuration
+- JWT-based authentication where applicable
+- Input validation and sanitization
+- CORS protection
+- MIT License for open source compliance
+
+## 📸 Project Screenshots & Feedback
+
+![Project Feedback](img/feedback_july10.png)
+
 
 ---
 
@@ -104,22 +173,8 @@ An emergency management system for incident tracking and responder coordination.
 
 ---
 
-
-
 ## 🔗 Contact
-
 **Marcus Brown**  
-Full Sail University – B.S. in Computer Science  
-GitHub: [@DekuWorks](https://github.com/DekuWorks)
-
----
-
-> This portfolio will be continuously updated throughout ADF 156. Check the `/docs` folder and Project Board for progress.
-
----
-
-## 📝 Instructor Feedback
-
-Below is feedback received from my instructor on July 10, 2024:
-
-![Instructor Feedback](img/feedback_july10.png)
+Full Stack Developer  
+GitHub: [@DekuWorks](https://github.com/DekuWorks)  
+LinkedIn: [Marcus Brown](https://linkedin.com/in/marcus-brown-dev)
