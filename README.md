@@ -31,17 +31,19 @@ A comprehensive web application designed to help picky eaters and people with me
 ### 🏃‍♂️ 241Runners - Runner Awareness Platform
 A comprehensive web application for managing runner safety and awareness with emergency contact management.
 
-
+**Live Application:** [https://www.241runnersawareness.org](https://www.241runnersawareness.org)
 
 **Key Features:**
-- User registration with email and phone verification
+- Complete user authentication system (Google OAuth, email, SMS)
 - Individual management and emergency contact system
-- Role-based access (parents, coaches, medical professionals)
-- Google OAuth integration
+- Role-based access control (User, Parent, Caregiver, Admin)
+- Admin dashboard with full CRUD operations
+- Responsive design with modern UI/UX
+- Production deployment with custom domain
 
-**Technologies:** ASP.NET Core, Entity Framework Core, SendGrid, Twilio, React
+**Technologies:** ASP.NET Core 8, Entity Framework Core, React 18, Redux Toolkit, TailwindCSS, SendGrid, Twilio, Google OAuth
 
-[View Project](dev/241Runners/) | [API Docs](dev/241Runners/docs/api.md)
+[View Project](dev/241Runners/) | [API Docs](dev/241Runners/docs/api.md) | [Live Demo](https://www.241runnersawareness.org)
 
 ### 🚨 RexusOpsEMS - Emergency Management System
 A comprehensive emergency management system for coordinating incidents, responders, and equipment.
