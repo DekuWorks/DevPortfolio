@@ -65,8 +65,8 @@ A comprehensive emergency management system for coordinating incidents, responde
 Each project has its own setup instructions. Navigate to the project directory and follow the README for specific setup steps.
 
 ```bash
-# Example for ShipItApp
-cd dev/ShipItApp
+# Example for 241Runners
+cd dev/241Runners
 # Follow setup instructions in README.md
 ```
 
@@ -106,11 +106,8 @@ All projects follow security best practices:
 ### ✅ Week 2: Milestone 2
 - Capture and implement requirements from the live session as GitHub Issues
 - Assign issues to the current Sprint and project board
-- Update documentation in the docs folder as instructed
-- Highlight a key concept in the portfolio (e.g., .gitignore cleanup, project organization)
+- Update documentation as instructed
 - Address all feedback and open issues from previous weeks
-- Update project & portfolio boards: move issues to correct columns
-- Create and describe Milestone 6, assign issues to it
 - Complete feature branch work, create a pull request, and merge to stage
 
 ### ✅ Week 3: Milestone 3
